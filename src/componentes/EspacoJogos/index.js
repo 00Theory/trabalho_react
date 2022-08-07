@@ -18,34 +18,12 @@ const EspacoJogos = (props) => {
                         diversos xxxxxxx em sua jornada. Desvende mistérios que cercam as ruas e
                         florestas de xxxxxxxxxx.
                     </p>
-                    <p> Em um mundo onde xxxxxxxx, descubra o que aconteceu ao xxxxxxxx para ajudar
-                        os xxxxxxxxxxxx a melhorem a situação atual do xxxxxxxxx. Conte com a ajuda de
-                        diversos xxxxxxx em sua jornada. Desvende mistérios que cercam as ruas e
-                        florestas de xxxxxxxxxx.
-                    </p>
-                    <p>
-                        Nesse jogo, você pode fazer isso, aquilo e outros. O gênero xxxxxx reina aqui. Em
-                        sua exploração, fale com xxxxxs e com yyyyyys para ajudá-lo em cada passo.
-                        Enfrente xxxxxxxxx no intuito de obter xxxxxxx. Solucione puzzles a partir de seus
-                        xxxxxxx e libere novos zzzzzzzzz.
-                    </p>
                     <p>
                         Lembre-se sempre da ffffffffffffff. Ela sempre fornecerá ...................... e guiará você.
                     </p>
                 </>,
             texto2:
                 <>
-                    <p> Em um mundo onde xxxxxxxx, descubra o que aconteceu ao xxxxxxxx para ajudar
-                        os xxxxxxxxxxxx a melhorem a situação atual do xxxxxxxxx. Conte com a ajuda de
-                        diversos xxxxxxx em sua jornada. Desvende mistérios que cercam as ruas e
-                        florestas de xxxxxxxxxx.
-                    </p>
-                    <p>
-                        Nesse jogo, você pode fazer isso, aquilo e outros. O gênero xxxxxx reina aqui. Em
-                        sua exploração, fale com xxxxxs e com yyyyyys para ajudá-lo em cada passo.
-                        Enfrente xxxxxxxxx no intuito de obter xxxxxxx. Solucione puzzles a partir de seus
-                        xxxxxxx e libere novos zzzzzzzzz.
-                    </p>
                     <p> Em um mundo onde xxxxxxxx, descubra o que aconteceu ao xxxxxxxx para ajudar
                         os xxxxxxxxxxxx a melhorem a situação atual do xxxxxxxxx. Conte com a ajuda de
                         diversos xxxxxxx em sua jornada. Desvende mistérios que cercam as ruas e
