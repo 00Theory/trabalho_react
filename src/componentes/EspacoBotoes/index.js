@@ -7,32 +7,32 @@ const EspacoBotoes = () => {
         {
           nome: 'Não Nomeado',
           imagem: '/imagens/grazinha.png',
-          link: '/nao-nomeado#jogo-ancora'
+          link: '/nao-nomeado',
         },
         {
           nome: 'Dash and Get Out',
           imagem: '/imagens/dashAndGetOut.png',
-          link:'/dash-and-get-out'
+          link:'/dash-and-get-out',
         },
         {
           nome: 'Square Problems',
           imagem: '/imagens/squareProblems.png',
-          link:'/square-problems'
+          link:'/square-problems',
         },
         {
           nome: 'Pech',
           imagem: '/imagens/pech.png',
-          link:'/pech'
+          link:'/pech',
         },
         {
           nome: 'Save Vein',
           imagem: '/imagens/saveVein.png',
-          link:'/save-vein'
+          link:'/save-vein',
         },
         {
           nome: 'Lights Come Back',
           imagem: 'imagens/lightsComeBack.png',
-          link:'/lights-come-back'
+          link:'/lights-come-back',
         }
       ]
 

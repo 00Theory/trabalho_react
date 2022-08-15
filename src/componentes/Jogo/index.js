@@ -2,13 +2,13 @@ import './Jogo.css'
 
 const Jogo = (props) => {
     return(
-        <div className='jogo' id='jogo-ancora'>
+        <div className='jogo'>
             <div className='titulo-jogo'>
                 <h2>
                     {props.titulo}
                 </h2>
             </div>
-            <div className='conjunto'>
+            <div className='conjunto' >
                 <div className='parte-1'>
                     <img src={props.imagem1} alt={props.titulo} />
                     <p className='texto-jogo'>

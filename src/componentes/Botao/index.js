@@ -8,7 +8,7 @@ const Botao = ({ nome, imagem, link}) => {
 
     function handleClick() {
         console.log('Botao')
-        navegar(link)
+        navegar(link);
     }
 
     return (
