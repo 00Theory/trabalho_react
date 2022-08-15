@@ -25,7 +25,6 @@ const Jogo = (props) => {
                     </p>
                 </div>
             </div>
-
         </div>
     )
 }

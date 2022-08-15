@@ -7,7 +7,7 @@ const EspacoBotoes = () => {
         {
           nome: 'Não Nomeado',
           imagem: '/imagens/grazinha.png',
-          link: '/nao-nomeado'
+          link: '/nao-nomeado#jogo-ancora'
         },
         {
           nome: 'Dash and Get Out',
