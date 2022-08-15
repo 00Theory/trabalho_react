@@ -7,7 +7,7 @@ function App() {
 
   const caminhoJogos = [
     {
-      caminho: 'nao-nomeado#jogo-ancora',
+      caminho: 'nao-nomeado',
       aparecerJogo: 'Não Nomeado'
     },
     {
