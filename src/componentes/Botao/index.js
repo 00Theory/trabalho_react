@@ -9,6 +9,7 @@ const Botao = ({ nome, imagem, link}) => {
     function handleClick() {
         console.log('Botao')
         navegar(link)
+
     }
 
     return (

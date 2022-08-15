@@ -2,7 +2,7 @@ import './Jogo.css'
 
 const Jogo = (props) => {
     return(
-        <div className='jogo'>
+        <div className='jogo' id='jogo-ancora'>
             <div className='titulo-jogo'>
                 <h2>
                     {props.titulo}
