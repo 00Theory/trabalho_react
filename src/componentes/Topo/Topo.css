@@ -4,11 +4,11 @@
     flex-wrap: wrap;
     font-family: 'Montserrat';
     justify-content: center;
-    max-width: 100%;
+    width: 100%;
 }
 
 .menu-topo img{
-    max-width: 100%;
+    object-fit: cover;
     text-align: center;
     padding: 40px 40px 0px 40px;
 }
@@ -19,3 +19,51 @@
     color: #FFFFFF;
     padding: 40px 40px 0px 40px;
 }
+
+@media (min-width:300px) and (max-width: 480px) {
+    .menu-topo h1{
+        font-size: 64px;
+    }
+
+    .menu-topo img{
+        width: 200px;
+    }
+  }
+  
+  @media (min-width:481px) and (max-width: 767px) {
+    .menu-topo h1{
+        font-size: 70px;
+    }
+
+    .menu-topo img{
+        width: 250px;
+    }
+  }
+  
+  @media (min-width:768px) and (max-width: 998px) {
+    .menu-topo h1{
+        font-size: 78px;
+    }
+
+    .menu-topo img{
+        width: 300px;
+    }
+  }
+  
+  @media (min-width:999px) and (max-width: 1199px) {
+    .menu-topo h1{
+        font-size: 84px;
+    }
+  }
+  
+  @media (min-width:1200px) and (max-width: 1440px) {
+    .menu-topo h1{
+        font-size: 90px;
+    }
+  }
+  
+  @media (min-width:1441px) and (max-width: 1920px) {
+    .menu-topo h1{
+        font-size: 98px;
+    }
+  }
