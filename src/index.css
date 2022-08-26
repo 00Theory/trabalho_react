@@ -74,3 +74,33 @@ code {
     font-size: 44px;
   }
 }
+
+@media (min-width:1921px) and (max-width: 2160px) {
+  p {
+    font-size: 22px;
+  }
+
+  h2 {
+    font-size: 46px;
+  }
+}
+
+@media (min-width:2161px) and (max-width: 3120px) {
+  p {
+    font-size: 22px;
+  }
+
+  h2 {
+    font-size: 48px;
+  }
+}
+
+@media (min-width:3121px) {
+  p {
+    font-size: 28px;
+  }
+
+  h2 {
+    font-size: 56px;
+  }
+}

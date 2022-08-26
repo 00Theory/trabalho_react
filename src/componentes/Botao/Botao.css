@@ -124,3 +124,14 @@ button:focus {outline:0;}
         height: 100px;
     }
   }
+
+  @media (min-width:1921px) and (max-width: 3120px) {
+    .botoes h2{
+        font-size: 28px;
+    }
+
+    .botoes img{
+        width: 120px;
+        height: 120px;
+    }
+  }
