@@ -319,7 +319,6 @@ const EspacoJogos = (props) => {
             imagemMeio: './imagens/grazinha_bkg.png',
         }
     ]
-    debugger
     return (
 
         jogos.map(jogo =>
