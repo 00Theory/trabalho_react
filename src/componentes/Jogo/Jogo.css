@@ -32,9 +32,8 @@
 
 .conjunto .parte-1 {
     justify-content: center;
-    box-sizing: border-box;
-    display: flex;
     flex-wrap: wrap;
+    display: flex;
 }
 
 .conjunto .parte-2 {
